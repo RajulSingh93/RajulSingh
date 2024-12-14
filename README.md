@@ -18,24 +18,6 @@ I’m an Developer, Analyst also a musician, and a creator of things that (hopef
 ⚙️ Tech Stack
 Welcome to my digital toolkit! 🦸‍♂️ Here’s what powers my code:
 
-⚙️ Tech Stack
-Here’s what’s in my utility belt 🦸‍♂️:
-
-Languages
-
-
-
-Frameworks & Libraries
-
-
-
-Tools
-
-
-
-
-
-
 Languages I Speak
 HTML - Crafting the structure of the web 🌐
 CSS - Styling the world, one pixel at a time 🎨
